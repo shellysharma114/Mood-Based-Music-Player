@@ -8,9 +8,11 @@
   **[Click here to download the dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)**
 
   ## Steps to run the program:
-  1. Download dataset using above mentioned link and clone the project in your local system.
-  2. Run the 'main.ipynb' file in jupyter.
-  3. Run the 'app.py' using `streamlit run app.py` .
+  1. Download dataset using above mentioned link.
+  2. Clone this repository to your local system.
+  3. Install all the libraries mentioned in the requirements.txt file with the command `pip install -r requirements.txt`
+  4. Run the 'main.ipynb' file in jupyter.
+  5. Run the 'app.py' using `streamlit run app.py` .
 
   ## Steps to play music according to your mood
   1. Click on 'Capture' button on Website.
