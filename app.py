@@ -1,8 +1,6 @@
 import streamlit as st
 import cv2
-import matplotlib.pyplot as plt
-import numpy as np
-import os 
+
 
 from files import capture
 from files import predict
