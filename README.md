@@ -1,4 +1,10 @@
 # Mood-Based-Music-Player
+The main concept of this project is to automatically play songs based on the emotions of
+the user. It aims to provide user-preferred music with emotion awareness. In existing
+system user want to manually select the songs, randomly played songs may not match to
+the mood of the user, user has to classify the songs into various emotion and then for
+playing the songs user has to manually select a particular emotion. These difficulties can be
+avoided by using MOOD BASED MUSIC PLAYER.
   ## Tools used 
 ![Python](https://img.shields.io/badge/Python-3.8-FFD59E)
 
