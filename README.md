@@ -1,4 +1,5 @@
-# Mood-Based-Music-Player
+# Mood-Musica 
+Mood-Musica is a mood(or emotion) based music player.
 The main concept of this project is to automatically play songs based on the emotions of
 the user. It aims to provide user-preferred music with emotion awareness. In existing
 system user want to manually select the songs, randomly played songs may not match to
